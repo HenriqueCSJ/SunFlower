@@ -69,8 +69,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1229167"
-     inkscape:cx="164.24343"
-     inkscape:cy="573.96022"
+     inkscape:cx="31.107998"
+     inkscape:cy="602.01217"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -98,14 +98,20 @@
     <g
        id="g18"
        clip-path="url(#clipEmfPath1)"
-       transform="matrix(0.26458333,0,0,0.26458333,108.58886,132.87208)" />
+       transform="matrix(0.26458333,0,0,0.26458333,108.58886,132.87208)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        id="g492"
        clip-path="url(#clipEmfPath1-9)"
-       transform="matrix(0.26458333,0,0,0.26458333,74.436094,142.37874)" />
+       transform="matrix(0.26458333,0,0,0.26458333,74.436094,142.37874)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        id="g1357"
-       transform="translate(-26.242635,-67.858998)">
+       transform="translate(-26.242635,-67.858998)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          transform="matrix(0.62820127,0,0,0.62820127,75.652556,160.87315)"
          inkscape:connector-curvature="0"
@@ -193,18 +199,20 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:19.59045601px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48976138"
+       style="font-style:normal;font-weight:normal;font-size:19.59045601px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19;stroke-miterlimit:4;stroke-dasharray:none"
        x="42.4785"
        y="201.40764"
-       id="text1379"><tspan
+       id="text1379"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1377"
          x="42.4785"
          y="201.40764"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.59045601px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.48976138"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.59045601px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a40000;stroke-width:0.48976138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.59045601px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.19;stroke:#000000;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.59045601px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#edd400;stroke-width:0.19;stroke:#000000;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan1381">Sun</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.59045601px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000038;stroke-width:0.48976138"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.59045601px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fce94f;stroke-width:0.19;stroke:#000000;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan1385">Flower</tspan></tspan></text>
   </g>
 </svg>
